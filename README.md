@@ -1,4 +1,4 @@
-# Banking FAQ Chatbot
+# Banking FAQ Fine Tuning
 
 The chatbot utilizes the Zephyr-7B-Beta LLM for generating human-like, contextually relevant answers, ensuring smooth and dynamic interactions. To achieve this, the project employs LangChain for seamless language model integration and Chroma, a robust vector store, for efficient storage and retrieval of document embeddings. With domain-specific datasets, the chatbot is trained to understand and respond accurately to a wide range of banking queries.
 
